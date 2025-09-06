@@ -1,0 +1,7 @@
+{
+    "name": "Your Mod Name",
+    "author": "Your Name",
+    "description": "Description of your mod.",
+    "version": "1.0",
+    "minGameVersion": "126"
+}
