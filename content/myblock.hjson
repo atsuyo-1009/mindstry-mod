@@ -1,7 +1,0 @@
-
-type: block
-name: my-block
-description: "This is a custom block."
-buildCost: [{item: copper, amount: 10}]
-size: 1
-category: production
