@@ -1,5 +1,5 @@
 type: material
-name: iron-ingot
+name: ironingot
 description: "this is iron ingot and basic material."
 color: c9caca
 alwaysUnlocked: true
