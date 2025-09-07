@@ -3,6 +3,6 @@ description: '''
   this is Iron Ingot.
   '''
 type: material
-color: 
+color: c9caca
 alwaysUnlocked: true
 }
