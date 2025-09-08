@@ -1,1 +1,1 @@
-# mindstry-mod
+# MindstryMod
