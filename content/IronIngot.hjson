@@ -3,6 +3,8 @@ name: IronIngot
 description: "this is iron ingot and basic material."
 color: c9caca
 alwaysUnlocked: true
+research: {
+  parent:copper
 }
 
 
