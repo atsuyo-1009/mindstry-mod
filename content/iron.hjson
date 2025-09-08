@@ -1,8 +1,0 @@
-name: IronIngot
-description: '''
-  this is Iron Ingot.
-  '''
-type: material
-color: c9caca
-alwaysUnlocked: true
-}
